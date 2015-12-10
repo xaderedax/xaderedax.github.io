@@ -1,0 +1,84 @@
+/* Support Services Pathway Site */
+body {
+  background: #18638B;
+  min-width: 45em;
+  color: white;
+  }
+h1 {
+  border-style: outset;
+  margin-top: 0em;
+  background: #871419;
+  text-align: center;
+  font-size: 6em;
+  }
+h2 {
+  font-style: oblique;
+  font-size: 3em;
+  }
+  p {
+  font-size: 1.5em;
+  }
+h3 {
+  text-decoration: underline;
+  }
+.info {
+  text-align: justify;
+  }
+.nav {
+  margin-bottom: 1em;
+  background-color: #871419;
+  border-top-width: medium;
+  border-right-width: thick;
+  border-bottom-width: thick;
+  border-left-width: medium;
+  border-style: double;
+  text-align: center;
+  font-weight: bold;
+  padding: 0.5em;
+  }
+#helpdesk1 {
+  border-color: #871419;
+  border-style: inset;
+  float: right;
+  margin-left: 1em;
+  height: 15em;
+  width: auto;
+}
+#health {
+  border-color: #871419;
+  border-style: inset;
+  margin-left: 1em;
+  margin-right: 1em;
+  float: right;
+  height: 15em;
+  width: auto;
+}
+.dropcap {
+    float: left;
+    width: 0.7em;
+    font-size: 280%;
+    font-family: algerian, courier;
+    line-height: 80%;
+}
+#teacher {
+  border-color: #871419;
+	float: left;
+	margin-left: 4em;
+	border-style: double;
+	height: 15em;
+	width: auto;
+}
+#mtaexampic {
+  border-color: #871419;
+  border-style: inset;
+  float: right;
+  margin-left: 1em;
+  height: 15em;
+  width: auto;
+}
+a:visited {
+	color: white;
+}
+a:hover {
+	color: green;
+}
